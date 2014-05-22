@@ -6,15 +6,11 @@ Consists of various projects done for either practice or itches that aren't wort
 
 Projects by Type: 
 
-* [Numbers and Algorithms]
-* [Strings and Logic]
-* [Project Euler]
+* [Numbers and Algorithms](https://github.com/karanbirrandhawa/Project/tree/master/Numbers%20and%20Algorithms)
+* [Strings and Logic](https://github.com/karanbirrandhawa/Project/tree/master/Strings%20and%20Logic)
+* [Project Euler](https://github.com/karanbirrandhawa/Project/tree/master/Project%20Euler)
 
-Projects by Language:
-
-* [JavaScript] 
-* [Java] 
-* [Go]
+[Projects by Language can be found here.](https://github.com/karanbirrandhawa/Project/blob/master/LANG.md)
 
 ## Highlighted Projects
 
