@@ -13,5 +13,3 @@ Projects by Type:
 [Projects by Language can be found here.](https://github.com/karanbirrandhawa/Project/blob/master/LANG.md)
 
 ## Highlighted Projects
-
-* [Credit Card Validator](https://github.com/karanbirrandhawa/Project/blob/master/Numbers%20and%20Algorithms/CreditCard/CCValidator.js)
